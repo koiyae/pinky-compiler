@@ -1,4 +1,13 @@
-# Comentario teste
-+**-;    ;+
-++++  ---- ,,,, ;.;;;;
-.... ;;;;; 
+------------- Comentario teste --------------
+pi := 3.141592
+---------------------------------------------
+
+50 - -1
+
+x := 0.23
+
+if x >= 1 then
+    println('x is positive')
+else 
+    println('x is negative')
+end
